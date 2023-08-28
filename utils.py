@@ -16,3 +16,15 @@ def try_crack_the_code(code_string = None):
 
     else:
         return 'Sorry that is not the correct code!'
+    
+def help_me_one():
+    print('We could try and write a script that tries every number')
+    print('Good Luck')
+
+def help_me_two():
+    print('The code is in the MNIST database - [the numbers dataset]')
+    print('Image 1011')
+    print('Image 404')
+    print('Image 34000')
+    print('Image 100')
+    print('Image 20')
